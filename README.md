@@ -3,4 +3,6 @@
 
 Python爬虫实战：利用Scrapy框架，爬取股票信息，详细步骤过程
 
-提供下载项目
+
+#运行项目名
+scrapy crawl stock
