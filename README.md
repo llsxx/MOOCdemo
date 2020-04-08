@@ -4,5 +4,6 @@
 Python爬虫实战：利用Scrapy框架，爬取股票信息，详细步骤过程
 
 
-#运行项目名
+#运行项目
 scrapy crawl stock
+
